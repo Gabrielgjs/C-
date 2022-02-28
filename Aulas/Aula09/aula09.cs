@@ -1,0 +1,17 @@
+//Operaçõs Bitwise 
+//Bitwise << deslocado a esquerda Dobra o valor
+//Bitwise >> deslocado a direita  o valor cai para a metade.
+
+using System;
+
+class Aula09{
+
+    static void Main(){
+       int num = 10;
+
+       num = num << 2;
+       
+       Console.WriteLine(num);
+
+    }
+}
