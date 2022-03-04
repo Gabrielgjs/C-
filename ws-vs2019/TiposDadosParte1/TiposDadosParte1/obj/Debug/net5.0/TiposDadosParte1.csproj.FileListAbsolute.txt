@@ -1,0 +1,16 @@
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\bin\Debug\net5.0\TiposDadosParte1.exe
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\bin\Debug\net5.0\TiposDadosParte1.deps.json
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\bin\Debug\net5.0\TiposDadosParte1.runtimeconfig.json
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\bin\Debug\net5.0\TiposDadosParte1.runtimeconfig.dev.json
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\bin\Debug\net5.0\TiposDadosParte1.dll
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\bin\Debug\net5.0\ref\TiposDadosParte1.dll
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\bin\Debug\net5.0\TiposDadosParte1.pdb
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\obj\Debug\net5.0\TiposDadosParte1.csproj.AssemblyReference.cache
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\obj\Debug\net5.0\TiposDadosParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\obj\Debug\net5.0\TiposDadosParte1.AssemblyInfoInputs.cache
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\obj\Debug\net5.0\TiposDadosParte1.AssemblyInfo.cs
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\obj\Debug\net5.0\TiposDadosParte1.csproj.CoreCompileInputs.cache
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\obj\Debug\net5.0\TiposDadosParte1.dll
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\obj\Debug\net5.0\ref\TiposDadosParte1.dll
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\obj\Debug\net5.0\TiposDadosParte1.pdb
+C:\projetos\c#\ws-vs2019\TiposDadosParte1\TiposDadosParte1\obj\Debug\net5.0\TiposDadosParte1.genruntimeconfig.cache

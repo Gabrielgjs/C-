@@ -1,0 +1,16 @@
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.exe
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.deps.json
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.json
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.dev.json
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.dll
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\ref\Primeiro.dll
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.pdb
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.AssemblyReference.cache
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfoInputs.cache
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfo.cs
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.dll
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\ref\Primeiro.dll
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.pdb
+C:\projetos\c#\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.genruntimeconfig.cache
