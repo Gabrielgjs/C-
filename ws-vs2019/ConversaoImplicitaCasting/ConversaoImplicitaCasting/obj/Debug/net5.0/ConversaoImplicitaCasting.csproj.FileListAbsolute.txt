@@ -1,0 +1,16 @@
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net5.0\ConversaoImplicitaCasting.exe
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net5.0\ConversaoImplicitaCasting.deps.json
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net5.0\ConversaoImplicitaCasting.runtimeconfig.json
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net5.0\ConversaoImplicitaCasting.runtimeconfig.dev.json
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net5.0\ConversaoImplicitaCasting.dll
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net5.0\ref\ConversaoImplicitaCasting.dll
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net5.0\ConversaoImplicitaCasting.pdb
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net5.0\ConversaoImplicitaCasting.csproj.AssemblyReference.cache
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net5.0\ConversaoImplicitaCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net5.0\ConversaoImplicitaCasting.AssemblyInfoInputs.cache
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net5.0\ConversaoImplicitaCasting.AssemblyInfo.cs
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net5.0\ConversaoImplicitaCasting.csproj.CoreCompileInputs.cache
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net5.0\ConversaoImplicitaCasting.dll
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net5.0\ref\ConversaoImplicitaCasting.dll
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net5.0\ConversaoImplicitaCasting.pdb
+C:\projetos\c#\ws-vs2019\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net5.0\ConversaoImplicitaCasting.genruntimeconfig.cache

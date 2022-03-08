@@ -1,0 +1,16 @@
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\bin\Debug\net5.0\EstruturaCondificionalIFELSE.exe
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\bin\Debug\net5.0\EstruturaCondificionalIFELSE.deps.json
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\bin\Debug\net5.0\EstruturaCondificionalIFELSE.runtimeconfig.json
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\bin\Debug\net5.0\EstruturaCondificionalIFELSE.runtimeconfig.dev.json
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\bin\Debug\net5.0\EstruturaCondificionalIFELSE.dll
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\bin\Debug\net5.0\ref\EstruturaCondificionalIFELSE.dll
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\bin\Debug\net5.0\EstruturaCondificionalIFELSE.pdb
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\obj\Debug\net5.0\EstruturaCondificionalIFELSE.csproj.AssemblyReference.cache
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\obj\Debug\net5.0\EstruturaCondificionalIFELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\obj\Debug\net5.0\EstruturaCondificionalIFELSE.AssemblyInfoInputs.cache
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\obj\Debug\net5.0\EstruturaCondificionalIFELSE.AssemblyInfo.cs
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\obj\Debug\net5.0\EstruturaCondificionalIFELSE.csproj.CoreCompileInputs.cache
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\obj\Debug\net5.0\EstruturaCondificionalIFELSE.dll
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\obj\Debug\net5.0\ref\EstruturaCondificionalIFELSE.dll
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\obj\Debug\net5.0\EstruturaCondificionalIFELSE.pdb
+C:\projetos\c#\ws-vs2019\EstruturaCondificionalIFELSE\EstruturaCondificionalIFELSE\obj\Debug\net5.0\EstruturaCondificionalIFELSE.genruntimeconfig.cache

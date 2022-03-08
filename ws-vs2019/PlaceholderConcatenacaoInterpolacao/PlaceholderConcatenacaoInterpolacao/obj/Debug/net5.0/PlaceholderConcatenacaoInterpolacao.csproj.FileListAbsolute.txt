@@ -1,0 +1,15 @@
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\bin\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.exe
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\bin\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.deps.json
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\bin\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.runtimeconfig.json
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\bin\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.runtimeconfig.dev.json
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\bin\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.dll
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\bin\Debug\net5.0\ref\PlaceholderConcatenacaoInterpolacao.dll
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\bin\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.pdb
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\obj\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\obj\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.AssemblyInfoInputs.cache
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\obj\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.AssemblyInfo.cs
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\obj\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.csproj.CoreCompileInputs.cache
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\obj\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.dll
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\obj\Debug\net5.0\ref\PlaceholderConcatenacaoInterpolacao.dll
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\obj\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.pdb
+C:\projetos\c#\ws-vs2019\PlaceholderConcatenacaoInterpolacao\PlaceholderConcatenacaoInterpolacao\obj\Debug\net5.0\PlaceholderConcatenacaoInterpolacao.genruntimeconfig.cache

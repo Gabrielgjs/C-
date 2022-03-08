@@ -1,0 +1,16 @@
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\bin\Debug\net5.0\EntradaDadosParte2.exe
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\bin\Debug\net5.0\EntradaDadosParte2.deps.json
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\bin\Debug\net5.0\EntradaDadosParte2.runtimeconfig.json
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\bin\Debug\net5.0\EntradaDadosParte2.runtimeconfig.dev.json
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\bin\Debug\net5.0\EntradaDadosParte2.dll
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\bin\Debug\net5.0\ref\EntradaDadosParte2.dll
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\bin\Debug\net5.0\EntradaDadosParte2.pdb
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\obj\Debug\net5.0\EntradaDadosParte2.csproj.AssemblyReference.cache
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\obj\Debug\net5.0\EntradaDadosParte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\obj\Debug\net5.0\EntradaDadosParte2.AssemblyInfoInputs.cache
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\obj\Debug\net5.0\EntradaDadosParte2.AssemblyInfo.cs
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\obj\Debug\net5.0\EntradaDadosParte2.csproj.CoreCompileInputs.cache
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\obj\Debug\net5.0\EntradaDadosParte2.dll
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\obj\Debug\net5.0\ref\EntradaDadosParte2.dll
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\obj\Debug\net5.0\EntradaDadosParte2.pdb
+C:\projetos\c#\ws-vs2019\EntradaDadosParte2\EntradaDadosParte2\obj\Debug\net5.0\EntradaDadosParte2.genruntimeconfig.cache

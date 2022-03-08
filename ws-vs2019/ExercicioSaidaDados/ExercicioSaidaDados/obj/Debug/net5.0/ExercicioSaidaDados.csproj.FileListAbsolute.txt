@@ -1,0 +1,16 @@
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\bin\Debug\net5.0\ExercicioSaidaDados.exe
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\bin\Debug\net5.0\ExercicioSaidaDados.deps.json
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\bin\Debug\net5.0\ExercicioSaidaDados.runtimeconfig.json
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\bin\Debug\net5.0\ExercicioSaidaDados.runtimeconfig.dev.json
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\bin\Debug\net5.0\ExercicioSaidaDados.dll
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\bin\Debug\net5.0\ref\ExercicioSaidaDados.dll
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\bin\Debug\net5.0\ExercicioSaidaDados.pdb
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\obj\Debug\net5.0\ExercicioSaidaDados.csproj.AssemblyReference.cache
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\obj\Debug\net5.0\ExercicioSaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\obj\Debug\net5.0\ExercicioSaidaDados.AssemblyInfoInputs.cache
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\obj\Debug\net5.0\ExercicioSaidaDados.AssemblyInfo.cs
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\obj\Debug\net5.0\ExercicioSaidaDados.csproj.CoreCompileInputs.cache
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\obj\Debug\net5.0\ExercicioSaidaDados.dll
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\obj\Debug\net5.0\ref\ExercicioSaidaDados.dll
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\obj\Debug\net5.0\ExercicioSaidaDados.pdb
+C:\projetos\c#\ws-vs2019\ExercicioSaidaDados\ExercicioSaidaDados\obj\Debug\net5.0\ExercicioSaidaDados.genruntimeconfig.cache

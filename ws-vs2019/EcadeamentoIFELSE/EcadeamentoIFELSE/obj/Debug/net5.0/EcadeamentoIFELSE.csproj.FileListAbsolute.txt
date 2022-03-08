@@ -1,0 +1,15 @@
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\bin\Debug\net5.0\EcadeamentoIFELSE.exe
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\bin\Debug\net5.0\EcadeamentoIFELSE.deps.json
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\bin\Debug\net5.0\EcadeamentoIFELSE.runtimeconfig.json
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\bin\Debug\net5.0\EcadeamentoIFELSE.runtimeconfig.dev.json
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\bin\Debug\net5.0\EcadeamentoIFELSE.dll
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\bin\Debug\net5.0\ref\EcadeamentoIFELSE.dll
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\bin\Debug\net5.0\EcadeamentoIFELSE.pdb
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\obj\Debug\net5.0\EcadeamentoIFELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\obj\Debug\net5.0\EcadeamentoIFELSE.AssemblyInfoInputs.cache
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\obj\Debug\net5.0\EcadeamentoIFELSE.AssemblyInfo.cs
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\obj\Debug\net5.0\EcadeamentoIFELSE.csproj.CoreCompileInputs.cache
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\obj\Debug\net5.0\EcadeamentoIFELSE.dll
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\obj\Debug\net5.0\ref\EcadeamentoIFELSE.dll
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\obj\Debug\net5.0\EcadeamentoIFELSE.pdb
+C:\projetos\c#\ws-vs2019\EcadeamentoIFELSE\EcadeamentoIFELSE\obj\Debug\net5.0\EcadeamentoIFELSE.genruntimeconfig.cache

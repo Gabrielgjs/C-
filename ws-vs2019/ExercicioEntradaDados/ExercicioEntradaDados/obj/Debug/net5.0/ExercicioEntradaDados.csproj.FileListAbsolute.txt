@@ -1,0 +1,15 @@
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net5.0\ExercicioEntradaDados.exe
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net5.0\ExercicioEntradaDados.deps.json
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net5.0\ExercicioEntradaDados.runtimeconfig.json
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net5.0\ExercicioEntradaDados.runtimeconfig.dev.json
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net5.0\ExercicioEntradaDados.dll
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net5.0\ref\ExercicioEntradaDados.dll
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net5.0\ExercicioEntradaDados.pdb
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net5.0\ExercicioEntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net5.0\ExercicioEntradaDados.AssemblyInfoInputs.cache
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net5.0\ExercicioEntradaDados.AssemblyInfo.cs
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net5.0\ExercicioEntradaDados.csproj.CoreCompileInputs.cache
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net5.0\ExercicioEntradaDados.dll
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net5.0\ref\ExercicioEntradaDados.dll
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net5.0\ExercicioEntradaDados.pdb
+C:\projetos\c#\ws-vs2019\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net5.0\ExercicioEntradaDados.genruntimeconfig.cache
