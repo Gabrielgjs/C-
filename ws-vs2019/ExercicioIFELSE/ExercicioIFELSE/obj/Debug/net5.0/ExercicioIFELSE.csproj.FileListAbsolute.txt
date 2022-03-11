@@ -1,0 +1,16 @@
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\obj\Debug\net5.0\ExercicioIFELSE.csproj.AssemblyReference.cache
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\obj\Debug\net5.0\ExercicioIFELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\obj\Debug\net5.0\ExercicioIFELSE.AssemblyInfoInputs.cache
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\obj\Debug\net5.0\ExercicioIFELSE.AssemblyInfo.cs
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\obj\Debug\net5.0\ExercicioIFELSE.csproj.CoreCompileInputs.cache
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\bin\Debug\net5.0\ExercicioIFELSE.exe
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\bin\Debug\net5.0\ExercicioIFELSE.deps.json
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\bin\Debug\net5.0\ExercicioIFELSE.runtimeconfig.json
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\bin\Debug\net5.0\ExercicioIFELSE.runtimeconfig.dev.json
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\bin\Debug\net5.0\ExercicioIFELSE.dll
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\bin\Debug\net5.0\ref\ExercicioIFELSE.dll
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\bin\Debug\net5.0\ExercicioIFELSE.pdb
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\obj\Debug\net5.0\ExercicioIFELSE.dll
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\obj\Debug\net5.0\ref\ExercicioIFELSE.dll
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\obj\Debug\net5.0\ExercicioIFELSE.pdb
+C:\projetos\c#\ws-vs2019\ExercicioIFELSE\ExercicioIFELSE\obj\Debug\net5.0\ExercicioIFELSE.genruntimeconfig.cache

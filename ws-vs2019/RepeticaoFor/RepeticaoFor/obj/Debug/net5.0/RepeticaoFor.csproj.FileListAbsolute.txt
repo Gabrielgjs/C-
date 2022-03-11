@@ -1,0 +1,16 @@
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\bin\Debug\net5.0\RepeticaoFor.exe
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\bin\Debug\net5.0\RepeticaoFor.deps.json
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\bin\Debug\net5.0\RepeticaoFor.runtimeconfig.json
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\bin\Debug\net5.0\RepeticaoFor.runtimeconfig.dev.json
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\bin\Debug\net5.0\RepeticaoFor.dll
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\bin\Debug\net5.0\ref\RepeticaoFor.dll
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\bin\Debug\net5.0\RepeticaoFor.pdb
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\obj\Debug\net5.0\RepeticaoFor.csproj.AssemblyReference.cache
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\obj\Debug\net5.0\RepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\obj\Debug\net5.0\RepeticaoFor.AssemblyInfoInputs.cache
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\obj\Debug\net5.0\RepeticaoFor.AssemblyInfo.cs
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\obj\Debug\net5.0\RepeticaoFor.csproj.CoreCompileInputs.cache
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\obj\Debug\net5.0\RepeticaoFor.dll
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\obj\Debug\net5.0\ref\RepeticaoFor.dll
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\obj\Debug\net5.0\RepeticaoFor.pdb
+C:\projetos\c#\ws-vs2019\RepeticaoFor\RepeticaoFor\obj\Debug\net5.0\RepeticaoFor.genruntimeconfig.cache
